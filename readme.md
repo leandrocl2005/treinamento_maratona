@@ -1,9 +1,11 @@
+## Aula inaugural
+
 - Instalar o Visual Code Studio
 - Instalar o Python
 - Cadastrar no Beecrowd
 - Submeter um problema com sucesso no Beecrowd
 
-Datas:
+## Datas do treinamento:
 - 29/07 - 09h00 <> 10h00: Aula inaugural
 - 01/08 - 19h30 <> 20h30: Aula 1 iniciante
 - 05/08 - 14h00 <> 18h00: Torn 1 iniciante

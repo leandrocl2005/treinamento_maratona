@@ -1,12 +1,12 @@
 # Leia 1º valor e armazene em A
-A = input()
+A = input()  # str
 # Converter A em inteiro
-A = int(A)
+A = int(A)  # int
 # Leia 2º valor e armazene em B
-B = input()
+B = input()  # str
 # Converter B em inteiro
-B = int(B)
+B = int(B)  # int
 # Efetue a soma de A e B e armazene em X
-X = A + B
+X = A + B  # int + int
 # Imprima X
 print(f"X = {X}")

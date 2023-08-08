@@ -16,3 +16,7 @@
 - 22/08 - 19h30 <> 20h30: Aula 4 iniciante
 - 26/08 - 14h00 <> 18h00: Torn 4 misto
 - 01/09 - 19h30 <> 20h30: Aula 1 junior
+
+## Link do notion
+
+- https://www.notion.so/Treino-Python-ToT-643a3b273f074a85a237b7e5cfbc2af5

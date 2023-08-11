@@ -11,6 +11,7 @@
 - 05/08 - 14h00 <> 18h00: Torn 1 iniciante
 - 08/08 - 19h30 <> 20h30: Aula 2 iniciante
 - 12/08 - 14h00 <> 18h00: Torn 2 misto
+- 14/08 - 19h00 <> 20h00: Conversa com finalista da brasileira
 - 15/08 - 19h30 <> 20h30: Aula 3 iniciante
 - 19/08 - 14h00 <> 18h00: Torn 3 iniciante
 - 22/08 - 19h30 <> 20h30: Aula 4 iniciante

@@ -16,7 +16,8 @@
 - 19/08 - 14h00 <> 18h00: Torn 3 iniciante
 - 22/08 - 19h30 <> 20h30: Aula 4 iniciante
 - 26/08 - 14h00 <> 18h00: Torn 4 misto
-- 01/09 - 19h30 <> 20h30: Aula 1 junior
+- 28/08 - 19h30 <> 20h30: Aula 1 junior
+- 31/08 - 19h30 <> 21h30: Happy Hour no Armazén do Espeto
 
 ## Link do notion
 
